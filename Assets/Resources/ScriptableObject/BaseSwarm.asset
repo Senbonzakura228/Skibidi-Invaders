@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b8a33d770814ee8954d19dc3205bfa2, type: 3}
+  m_Name: BaseSwarm
+  m_EditorClassIdentifier: 
+  rowsCount: 5
+  columnsCount: 8
+  swarmShip: {fileID: 3913837290482543851, guid: 4844d7468a420dd4789bb697f702d62d, type: 3}
+  distanceBetweenHorizontal: 1
+  distanceBetweenVertical: 1
+  spawnPosition: {x: 0, y: 3, z: 0}
